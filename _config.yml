@@ -47,3 +47,9 @@ social:
 ga:
     # id: your_ga_id
     # host: your_host
+    
+---
+layout: default
+comments: true
+# other options
+---
