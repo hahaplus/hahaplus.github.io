@@ -6,7 +6,7 @@
 <style type="text/css">
 
 #wmd-preview h1  {
-    color: #0077bb; /* 将标题改为蓝色 */
+    color: #0077bb; /* 将标题改为蓝色*/
 }</style>
 </head>
 <body class="theme theme-white">
