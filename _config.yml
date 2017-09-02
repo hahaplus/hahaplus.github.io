@@ -1,11 +1,12 @@
 # Basic
 title: 詹明捷的博客
-subtitle: 欢迎访问
+subtitle: “大圣，此去欲何？” “踏南天，碎凌霄” “如若一去不回……？” “便一去不回！”
+welcome_message: <a  target="_blank">关于计算机视觉</a>
 #welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-#description: Vno Jekyll is a port of my Ghost theme vno.
-#creator: <a href="http://onev.cat">@onevcat</a>
+description: 欢迎访问
+creator: <a href="http://zhanmingjie.com">@zhanmingjie</a>
 
-#url: "http://vno.onevcat.com"
+url: "http://zhanmingjie.com"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +23,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://zhanmingjie.com'}
+    #- {title: Projects, description: My Projects, url: 'http://zhanmingjie.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,10 +38,10 @@ comment:
     
 # Social
 social:
-    weibo: hahaplus
-    github: hahaplus
-    twitter: hahaplus
-    gplus: 
+    #weibo: 
+    #github: 
+    #twitter: 
+    #gplus: 
     mail: zmjdll@gmail.com
 
 # Google Analytics
@@ -53,3 +54,5 @@ layout: default
 comments: true
 # other options
 ---
+
+markdown:    kramdown
