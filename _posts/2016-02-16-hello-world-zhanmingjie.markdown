@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8">
 <title>Hello World - zhanmingjie</title>
-<link href="https://zhanmingjie.com/css/template-theme-white.css" rel="stylesheet" media="screen">
+<link href="http://zhanmingjie.com/css/template-theme-white.css" rel="stylesheet" media="screen">
 <style type="text/css">
 
 #wmd-preview h1  {
